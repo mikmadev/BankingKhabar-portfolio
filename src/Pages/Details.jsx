@@ -46,7 +46,7 @@ function Details() {
                                 </div>
                             ))}
                             <div>
-                                {/* <iframe
+                                <iframe
                                     src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fbankingkhabar.news&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId"
                                     width="100%"
                                     height="500"
@@ -55,7 +55,7 @@ function Details() {
                                     frameBorder="0" // 
                                     allowFullScreen={true}
                                     allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
-                                ></iframe> */}
+                                ></iframe>
                             </div>
                         </div>
                     </div>
