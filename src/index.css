@@ -5,3 +5,25 @@
 .bg-for-mukhya{background-color: #ECECED;}
 .tt h5{font-weight: bold;}
 .news-body-content img{display: none !important;}
+
+
+.nav-effect {
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+}
+
+
+.nav-effect:hover {
+    background-color: #cc0000 !important; /* Banking Khabar Red */
+}
+
+
+.nav-effect:hover .nav-link {
+    color: white !important;
+}
+
+
+.nav-effect {
+    border-right: 1px solid rgba(255, 255, 255, 0.1); 
+}
+
